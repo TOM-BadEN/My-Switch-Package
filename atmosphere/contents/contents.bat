@@ -124,5 +124,5 @@ if exist 00FF0000B378D640 (mkdir "00FF0000B378D640--NX-FanControl")
 if exist 420000000000000B (mkdir "420000000000000B--sys-patch")
 if exist 0100000000251020 (mkdir "0100000000251020--sys-tongzhi")
 if exist 420000000000011B (mkdir "420000000000011B--sys-ftpsv")
-if exist 4100000002025924 (mkdir "4100000002025924--sys-ftpsv")
+if exist 4100000002025924 (mkdir "4100000002025924--sys-autokeyloop")
 
