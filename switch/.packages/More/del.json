@@ -1,0 +1,253 @@
+[
+    {
+        "name": "特斯拉和后台插件↓",
+        "path1": ""
+    },
+    {
+        "name": "按键宏 - 删除",
+        "path1": "/atmosphere/contents/0100000000C0FFEE/",
+        "path2": "/config/pad-macro/",
+        "path3": "switch/.overlays/pad-macro.ovl",
+        "path4": "/switch/.overlays/lang/pad-macro/"
+    },
+    {
+        "name": "屏幕滤镜 - 删除",
+        "path1": "/atmosphere/contents/0100000000000F12/",
+        "path2": "/switch/.overlays/Fizeau.ovl",
+        "path3": "/switch/Fizeau/",
+        "path4": "/switch/.overlays/lang/Fizeau/",
+        "path5": "/atmosphere/exefs_patches/nvnflinger_cmu/",
+        "path6": "/config/Fizeau/"
+    },
+    {
+        "name": "无线手柄 - 删除",
+        "path1": "/atmosphere/contents/010000000000bd00/",
+        "path2": "/atmosphere/exefs_patches/btm_patches/",
+        "path3": "/atmosphere/exefs_patches/bluetooth_patches/",
+        "path4": "/config/MissionControl/"
+    },
+    {
+        "name": "有线手柄 - 删除",
+        "path1": "/atmosphere/contents/690000000000000D/",
+        "path2": "/config/sys-con/",
+        "path3": "/switch/sys-con/"
+    },
+    {
+        "name": "底座模式 - 删除",
+        "path1": "/switch/.overlays/ReverseNX-RT.ovl",
+        "path2": "/switch/.overlays/lang/ReverseNX-RT/",
+        "path3": "/atmosphere/contents/0000000000534C56/",
+        "path4": "/SaltySD*/",
+		"path5": "/switch/ReverseNX-Tool.nro"
+    },
+    {
+        "name": "帧率锁定 - 删除",
+        "path1": "/switch/.overlays/FPSLocker.ovl",
+        "path2": "/SaltySD/plugins/"
+    },
+    {
+        "name": "作弊 - 删除",
+        "path1": "/switch/.overlays/EdiZon.ovl",
+        "path2":"/switch/.overlays/lang/EdiZon/"
+    },
+    {
+        "name": "状态监控 - 删除",
+        "path1": "/config/status-monitor/",
+        "path2": "/switch/.overlays/StatusMonitor.ovl"
+    },
+    {
+        "name": "系统模块 - 删除",
+        "path1": "/config/ovl-sysmodules/",
+        "path2": "/switch/.overlays/ovl-sysmodules.ovl",
+        "path3": "/switch/.overlays/lang/ovl-sysmodules/"
+    },
+    {
+        "name": "游戏串流 - 删除",
+        "path1": "/atmosphere/contents/00FF0000A53BB665/",
+        "path2": "/config/sysdvr/",
+        "path3": "/switch/.overlays/SysDVR.ovl",
+        "path4": "/switch/SysDVR/",
+        "path5": "/switch/.overlays/lang/SysDVR/",
+        "path6": "/atmosphere/exefs_patches/am/"
+    },
+    {
+        "name": "联机插件 - 删除",
+        "path1": "/atmosphere/contents/4200000000000010/",
+        "path2": "/switch/.overlays/ldnmitm_config.ovl",
+        "path3": "/switch/ldnmitm_config/",
+        "path4": "/switch/.overlays/lang/ldn_mitm/"
+    },
+    {
+        "name": "后台音乐 - 删除",
+        "path1": "/atmosphere/contents/4200000000000000/",
+        "path2": "/switch/.overlays/sys-tune-overlay.ovl"
+    },
+    {
+        "name": "amiibo模拟 - 删除",
+        "path1": "/atmosphere/contents/0100000000000352/",
+        "path2": "/switch/.overlays/emuiibo.ovl",
+        "path3": "/switch/.overlays/lang/emuiibo/",
+        "path4": "/emuiibo/"
+    },
+    {
+        "name": "风扇调节 - 删除",
+        "path1": "/atmosphere/contents/00FF0000B378D640/",
+        "path2": "/switch/.overlays/NX-FanControl.ovl",
+        "path3": "/config/NX-FanControl/"
+    },
+    {
+        "name": "模组管理 - 删除",
+        "path1": "/switch/.overlays/SimpleModManagerOverlay.ovl",
+        "path2": "/switch/SimpleModManager/",
+        "path3": "/config/SimpleModManager/",
+		"path4": "/config/SimpleModManager.nro"
+    },
+    {
+        "name": "硬件信息 - 删除",
+        "path1": "/switch/.overlays/InfoNX-ovl.ovl"
+    },
+    {
+        "name": "状态查看 - 删除",
+        "path1": "/switch/.overlays/Observer-Tool.ovl"
+    },
+    {
+        "name": "时间同步 - 删除",
+        "path1": "/switch/.overlays/QuickNTP.ovl",
+        "path2": "/switch/.overlays/lang/QuickNTP/"
+    },
+    {
+        "name": "后台无线传输 - 删除",
+        "path1": "/atmosphere/contents/420000000000011B/",
+        "path2": "/config/ftpsrv/"
+    },
+    {
+        "name": "相册工具↓",
+        "path1": ""
+    },
+    {
+        "name": "哔哩哔哩 - 删除",
+        "path1": "/switch/wiliwili/",
+		"path2": "/switch/wiliwili.nro"
+    },
+    {
+        "name": "daybreak - 删除",
+        "path1": "/switch/daybreak_x.nro",
+        "path2": "/switch/daybreak.nro"
+    },
+    {
+        "name": "离线家长控制 - 删除",
+        "path1": "/switch/Set_parental_controls_for_Play_timer.nro"
+    },
+    {
+        "name": "主题工具 - 删除",
+        "path1": "/switch/SwitchThemesNX/",
+        "path2": "/themes",
+        "path3": "/switch/NXThemesInstaller.nro"
+    },
+    {
+        "name": "breeze - 删除",
+        "path1": "/switch/breeze/"
+    },
+    {
+        "name": "查看游戏时长 - 删除",
+        "path1": "/switch/NX-Activity-Log/",
+		"path2": "/switch/NX-Activity-Log.nro"
+    },
+    {
+        "name": "性能测试 - 删除",
+        "path1": "/switch/MemToolkitNX/",
+		"path2": "/switch/MemToolkitNX.nro"
+    },
+    {
+        "name": "超频设置 - 删除",
+        "path1": "/switch/sys-clk-manager/",
+		"path2": "/switch/sys-clk-manager.nro",
+        "path3": "/switch/sys-clk/",
+        "path4": "/switch/sys-clk.nro"
+    },
+    {
+        "name": "JKSV - 删除",
+        "path1": "/switch/JKSV/",
+		"path2": "/switch/JKSV.nro"
+    },
+    {
+        "name": "Goldleaf - 删除",
+        "path1": "/switch/Goldleaf/",
+		"path2": "/switch/Goldleaf.nro"
+    },
+    {
+        "name": "linkalho - 删除",
+        "path1": "/switch/linkalho/",
+		"path2": "/switch/linkalho/linkalho.nro"
+    },
+    {
+        "name": "电池校准 - 删除",
+        "path1": "/switch/battery_desync_fix.nro",
+		"path2": "/switch/battery_desync_fix/"
+    },
+    {
+        "name": "FTPD - 删除",
+        "path1": "/switch/ftpd.nro",
+		"path2": "/switch/ftpd/"
+    },
+    {
+        "name": "EdiZon  - 删除",
+        "path1": "/switch/EdiZon/",
+		"path2": "/switch/EdiZon.nro"
+    },
+    {
+        "name": "NX-Shell - 删除",
+        "path1": "/switch/NX-Shell/",
+		"path2": "/switch/NX-Shell.nro"
+    },
+    {
+        "name": "AtmoXL - 删除",
+        "path1": "/switch/AtmoXL-Titel-Installer/",
+		"path2": "/switch/AtmoXL-Titel-Installer.nro"
+    },
+    {
+        "name": "Awoo-Installer - 删除",
+        "path1": "/switch/Awoo-Installer/",
+		"path2": "/switch/Awoo-Installer.nro"
+    },
+    {
+        "name": "Moonlight-Switch - 删除",
+        "path1": "/switch/Moonlight-Switch/",
+		"path2": "/switch/Moonlight-Switch.nro"
+    },
+    {
+        "name": "转区工具 - 删除",
+        "path1": "/switch/tencent-switcher-gui/",
+		"path2": "/switch/tencent-switcher-gui.nro"
+    },
+    {
+        "name": "aio-switch-updater - 删除",
+        "path1": "/config/aio-switch-updater/",
+        "path2": "/switch/aio-switch-updater/",
+		"path3": "/switch/aio-switch-updater.nro"
+    },
+    {
+        "name": "特斯拉扩展↓",
+        "path1": ""
+    },
+    {
+        "name": "音量控制 - 删除",
+        "path1": "/switch/.packages/SystemControl/"
+    },
+    {
+        "name": "王国之泪UltraCam模组 - 删除",
+        "path1": "/switch/.packages/Game Mods/TOTK UltraCam/"
+    },
+    {
+        "name": "旷野之息UltraCam模组 - 删除",
+        "path1": "/switch/.packages/Game Mods/BOPW UltraCam/"
+    },
+    {
+        "name": "智慧的再现UltraCam模组 - 删除",
+        "path1": "/switch/.packages/Game Mods/EoW UltraCam/"
+    },
+    {
+        "name": "游戏模组 - 整个删除",
+        "path1": "/switch/.packages/Game Mods/"
+    }
+]

@@ -1,0 +1,30 @@
+[无敌]
+false
+[生命不减]
+false
+[氧气不减]
+false
+[免费购物]
+false
+[无限跳跃]
+false
+[获取2倍金币]
+false
+[移动速度1.5倍]
+false
+[移动速度2.0倍]
+false
+[移动速度 还原]
+false
+[跳跃高度1.5倍]
+false
+[跳跃高度2.0倍]
+false
+[跳跃高度 还原]
+false
+[帽子机关触发时间延长]
+false
+[消除毒沼等区域即死效果]
+false
+[时限类隐藏道具轻松获取]
+false

@@ -1,0 +1,677 @@
+SaltySD 1.5.5: got SD card.
+[00:00:00] SaltySD: Detected Lite model. Docked refresh rate will be blocked.
+[00:00:09] SaltySD: PID 135 is not allowing debugging, aborting...
+[00:00:09] SaltySD: PID 136 is not allowing debugging, aborting...
+[00:00:09] SaltySD: PID 137 is not allowing debugging, aborting...
+[00:33:37] SaltySD: PID 138 is not allowing debugging, aborting...
+[00:33:42] SaltySD: PID 139 is not allowing debugging, aborting...
+[00:38:18] SaltySD: PID 140 is not allowing debugging, aborting...
+[00:55:39] SaltySD: accepting service calls
+[00:55:39] SaltySD: session 1183f3 being handled
+[00:55:39] SaltySD: cmd 10 handler
+[00:55:39] SaltySD: done accepting service calls
+[00:55:39] SaltySD: accepting service calls
+[00:55:39] SaltySD: session 1683f3 being handled
+[00:55:39] SaltySD: cmd 7 handler
+[00:55:39] SaltySD: done accepting service calls
+[00:59:20] SaltySD: PID 141 is not allowing debugging, aborting...
+[00:59:29] SaltySD: PID 142 is not allowing debugging, aborting...
+[01:10:29] SaltySD: PID 143 is not allowing debugging, aborting...
+[01:16:49] SaltySD: PID 144 is not allowing debugging, aborting...
+[01:17:47] SaltySD: PID 145 is not allowing debugging, aborting...
+[01:17:50] SaltySD: PID 146 is not allowing debugging, aborting...
+[01:17:57] SaltySD: PID 147 is not allowing debugging, aborting...
+[01:32:50] SaltySD: PID 148 is not allowing debugging, aborting...
+[01:56:26] SaltySD: PID 149 is not allowing debugging, aborting...
+[01:57:05] SaltySD: PID 150 is not allowing debugging, aborting...
+[01:57:20] SaltySD: PID 151 is not allowing debugging, aborting...
+[01:57:23] SaltySD: found valid AttachProcess event:
+[01:57:23] 		 tid 0100000000010000 pid 0000000000000098
+[01:57:23] 		 name Application
+[01:57:23] 		 isA64 1 addrSpace 3 enableDebug 1
+[01:57:23] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[01:57:23] 		 exception 0000000000000000
+[01:57:23] SaltySD: debug event 4, passing...
+[01:57:23] SaltySD: PID 152 svcGetDebugEventInfo: end of events...
+.text to 5625804000, .data to 562699e000
+[01:57:23] SaltySD: BID: B424BE150A8E7D78
+[01:57:23] SaltySD: accepting service calls
+[01:57:23] SaltySD: session 3183f3 being handled
+[01:57:23] SaltySD: cmd 1 handler, proc handle 3303f2, heap 31dc800000, path saltysd_core.elf
+[01:57:23] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:00:00] SaltySD: Found free address space at 5625600000, size 5a000
+[01:57:24] SaltySD: done accepting service calls
+[01:57:24] SaltySD: PID 99 spawned before last hijack finished bootstrapping! Ignoring...
+[01:57:24] SaltySD: accepting service calls
+[01:57:24] SaltySD: session 3b83f3 being handled
+[01:57:24] SaltySD: cmd 4 handler
+[01:57:24] SaltySD: cmd 2 handler
+[01:57:24] SaltySD: cmd 3 handler, memcpy(56277509ec, 562562d490, 10)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5627750bbc, 562562d490, 10)
+[01:57:24] SaltySD: cmd 6 handler, size: 1
+[01:57:24] SaltySD: cmd 7 handler
+[01:57:24] SaltySD: cmd 6 handler, size: 174
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5626635c60, 5260a3bbc8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(56270961a0, 5260a3bbc8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(562799d918, 5260a3bbc8, 18)
+[01:57:24] SaltySD: cmd 8 handler PID: 153
+[01:57:24] SaltySD: cmd 6 handler, size: 7
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5626632e88, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5626632e10, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5626632df8, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5626632fc0, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(56279919f0, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5626633770, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5627091778, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(562798dfa0, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5627991a98, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5627991ab0, 5260a3bcd8, 18)
+[01:57:24] SaltySD: cmd 3 handler, memcpy(5627991ac8, 5260a3bcd8, 18)
+[01:57:24] SaltySD: done accepting service calls
+[02:14:54] SaltySD: PID 154 is not allowing debugging, aborting...
+[02:16:30] SaltySD: PID 155 is not allowing debugging, aborting...
+[02:16:32] SaltySD: found valid AttachProcess event:
+[02:16:32] 		 tid 0100000000010000 pid 000000000000009c
+[02:16:32] 		 name Application
+[02:16:32] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:16:32] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:16:32] 		 exception 0000000000000000
+[02:16:32] SaltySD: debug event 4, passing...
+[02:16:32] SaltySD: PID 156 svcGetDebugEventInfo: end of events...
+[00:19:09] .text to aab004000, .data to aac19e000
+[02:16:33] SaltySD: BID: B424BE150A8E7D78
+[02:16:33] SaltySD: accepting service calls
+[02:16:33] SaltySD: session b483f3 being handled
+[02:16:33] SaltySD: cmd 1 handler, proc handle b603f1, heap 1043600000, path saltysd_core.elf
+[02:16:33] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:19:09] SaltySD: Found free address space at aaae00000, size 5a000
+[02:16:33] SaltySD: done accepting service calls
+[02:16:33] SaltySD: accepting service calls
+[02:16:33] SaltySD: session bd83f3 being handled
+[02:16:33] SaltySD: cmd 4 handler
+[02:16:33] SaltySD: cmd 2 handler
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aacf509ec, aaae2d490, 10)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aacf50bbc, aaae2d490, 10)
+[02:16:33] SaltySD: cmd 6 handler, size: 1
+[02:16:33] SaltySD: cmd 7 handler
+[02:16:33] SaltySD: cmd 6 handler, size: 174
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aabe35c60, 6d15453bc8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aac8961a0, 6d15453bc8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aad19d918, 6d15453bc8, 18)
+[02:16:33] SaltySD: cmd 8 handler PID: 156
+[02:16:33] SaltySD: cmd 6 handler, size: 7
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aabe32e88, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aabe32e10, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aabe32df8, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aabe32fc0, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aad1919f0, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aabe33770, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aac891778, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aad18dfa0, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aad191a98, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aad191ab0, 6d15453cd8, 18)
+[02:16:33] SaltySD: cmd 3 handler, memcpy(aad191ac8, 6d15453cd8, 18)
+[02:16:33] SaltySD: done accepting service calls
+[02:16:33] SaltySD: PID 157 is not allowing debugging, aborting...
+[02:19:54] SaltySD: PID 158 is not allowing debugging, aborting...
+[02:20:04] SaltySD: PID 159 is not allowing debugging, aborting...
+[02:20:07] SaltySD: found valid AttachProcess event:
+[02:20:07] 		 tid 0100000000010000 pid 00000000000000a0
+[02:20:07] 		 name Application
+[02:20:07] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:20:07] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:20:07] 		 exception 0000000000000000
+[02:20:07] SaltySD: debug event 4, passing...
+[02:20:07] SaltySD: PID 160 svcGetDebugEventInfo: end of events...
+[00:22:44] .text to 34fce04000, .data to 34fdf9e000
+[02:20:08] SaltySD: BID: B424BE150A8E7D78
+[02:20:08] SaltySD: accepting service calls
+[02:20:08] SaltySD: session 13683f3 being handled
+[02:20:08] SaltySD: cmd 1 handler, proc handle 13803f2, heap 20df000000, path saltysd_core.elf
+[02:20:08] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:22:44] SaltySD: Found free address space at 34fcc00000, size 5a000
+[02:20:08] SaltySD: done accepting service calls
+[02:20:08] SaltySD: PID a1 spawned before last hijack finished bootstrapping! Ignoring...
+[02:20:08] SaltySD: accepting service calls
+[02:20:08] SaltySD: session 14083f3 being handled
+[02:20:08] SaltySD: cmd 4 handler
+[02:20:08] SaltySD: cmd 2 handler
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fed509ec, 34fcc2d490, 10)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fed50bbc, 34fcc2d490, 10)
+[02:20:08] SaltySD: cmd 6 handler, size: 1
+[02:20:08] SaltySD: cmd 7 handler
+[02:20:08] SaltySD: cmd 6 handler, size: 174
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fdc35c60, 4ee687bc8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fe6961a0, 4ee687bc8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fef9d918, 4ee687bc8, 18)
+[02:20:08] SaltySD: cmd 8 handler PID: 161
+[02:20:08] SaltySD: cmd 6 handler, size: 7
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fdc32e88, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fdc32e10, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fdc32df8, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fdc32fc0, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fef919f0, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fdc33770, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fe691778, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fef8dfa0, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fef91a98, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fef91ab0, 4ee687cd8, 18)
+[02:20:08] SaltySD: cmd 3 handler, memcpy(34fef91ac8, 4ee687cd8, 18)
+[02:20:08] SaltySD: done accepting service calls
+[02:20:16] SaltySD: PID 162 is not allowing debugging, aborting...
+[02:20:26] SaltySD: PID 163 is not allowing debugging, aborting...
+[02:20:29] SaltySD: found valid AttachProcess event:
+[02:20:29] 		 tid 0100000000010000 pid 00000000000000a4
+[02:20:29] 		 name Application
+[02:20:29] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:20:29] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:20:29] 		 exception 0000000000000000
+[02:20:29] SaltySD: debug event 4, passing...
+[02:20:29] SaltySD: PID 164 svcGetDebugEventInfo: end of events...
+[00:23:05] .text to 200cc04000, .data to 200dd9e000
+[02:20:29] SaltySD: BID: B424BE150A8E7D78
+[02:20:29] SaltySD: accepting service calls
+[02:20:29] SaltySD: session 1b983f3 being handled
+[02:20:29] SaltySD: cmd 1 handler, proc handle 1bb03f1, heap 4c91000000, path saltysd_core.elf
+[02:20:29] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:23:05] SaltySD: Found free address space at 200ca00000, size 5a000
+[02:20:29] SaltySD: done accepting service calls
+[02:20:29] SaltySD: PID a5 spawned before last hijack finished bootstrapping! Ignoring...
+[02:20:29] SaltySD: accepting service calls
+[02:20:29] SaltySD: session 1c383f3 being handled
+[02:20:29] SaltySD: cmd 4 handler
+[02:20:29] SaltySD: cmd 2 handler
+[02:20:29] SaltySD: cmd 3 handler, memcpy(200eb509ec, 200ca2d490, 10)
+[02:20:29] SaltySD: cmd 3 handler, memcpy(200eb50bbc, 200ca2d490, 10)
+[02:20:29] SaltySD: cmd 6 handler, size: 1
+[02:20:29] SaltySD: cmd 7 handler
+[02:20:29] SaltySD: cmd 6 handler, size: 174
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200da35c60, 2efb6ccbc8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200e4961a0, 2efb6ccbc8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200ed9d918, 2efb6ccbc8, 18)
+[02:20:30] SaltySD: cmd 8 handler PID: 165
+[02:20:30] SaltySD: cmd 6 handler, size: 7
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200da32e88, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200da32e10, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200da32df8, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200da32fc0, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200ed919f0, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200da33770, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200e491778, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200ed8dfa0, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200ed91a98, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200ed91ab0, 2efb6cccd8, 18)
+[02:20:30] SaltySD: cmd 3 handler, memcpy(200ed91ac8, 2efb6cccd8, 18)
+[02:20:30] SaltySD: done accepting service calls
+[02:20:42] SaltySD: PID 166 is not allowing debugging, aborting...
+[02:24:13] SaltySD: PID 167 is not allowing debugging, aborting...
+[02:24:15] SaltySD: found valid AttachProcess event:
+[02:24:15] 		 tid 0100000000010000 pid 00000000000000a8
+[02:24:15] 		 name Application
+[02:24:15] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:24:15] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:24:16] 		 exception 0000000000000000
+[02:24:16] SaltySD: debug event 4, passing...
+[02:24:16] SaltySD: PID 168 svcGetDebugEventInfo: end of events...
+[00:26:52] .text to 2b83204000, .data to 2b8439e000
+[02:24:16] SaltySD: BID: B424BE150A8E7D78
+[02:24:16] SaltySD: accepting service calls
+[02:24:16] SaltySD: session 23d83f3 being handled
+[02:24:16] SaltySD: cmd 1 handler, proc handle 23f03f2, heap 3f78400000, path saltysd_core.elf
+[02:24:16] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:26:52] SaltySD: Found free address space at 2b83000000, size 5a000
+[02:24:16] SaltySD: done accepting service calls
+[02:24:16] SaltySD: accepting service calls
+[02:24:16] SaltySD: session 24683f3 being handled
+[02:24:16] SaltySD: cmd 4 handler
+[02:24:16] SaltySD: cmd 2 handler
+[02:24:16] SaltySD: cmd 3 handler, memcpy(2b851509ec, 2b8302d490, 10)
+[02:24:16] SaltySD: cmd 3 handler, memcpy(2b85150bbc, 2b8302d490, 10)
+[02:24:16] SaltySD: cmd 6 handler, size: 1
+[02:24:16] SaltySD: cmd 7 handler
+[02:24:16] SaltySD: cmd 6 handler, size: 174
+[02:24:16] SaltySD: cmd 3 handler, memcpy(2b84035c60, 71527ebbc8, 18)
+[02:24:16] SaltySD: cmd 3 handler, memcpy(2b84a961a0, 71527ebbc8, 18)
+[02:24:16] SaltySD: cmd 3 handler, memcpy(2b8539d918, 71527ebbc8, 18)
+[02:24:16] SaltySD: cmd 8 handler PID: 168
+[02:24:16] SaltySD: cmd 6 handler, size: 7
+[02:24:16] SaltySD: cmd 3 handler, memcpy(2b84032e88, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b84032e10, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b84032df8, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b84032fc0, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b853919f0, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b84033770, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b84a91778, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b8538dfa0, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b85391a98, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b85391ab0, 71527ebcd8, 18)
+[02:24:17] SaltySD: cmd 3 handler, memcpy(2b85391ac8, 71527ebcd8, 18)
+[02:24:17] SaltySD: done accepting service calls
+[02:24:17] SaltySD: PID 169 is not allowing debugging, aborting...
+[02:24:43] SaltySD: accepting service calls
+[02:24:43] SaltySD: session 2b183f3 being handled
+[02:24:43] SaltySD: cmd 10 handler
+[02:24:43] SaltySD: done accepting service calls
+[02:24:43] SaltySD: accepting service calls
+[02:24:43] SaltySD: session 2b683f3 being handled
+[02:24:43] SaltySD: cmd 7 handler
+[02:24:43] SaltySD: done accepting service calls
+[02:24:45] SaltySD: accepting service calls
+[02:24:45] SaltySD: session 2bb83f3 being handled
+[02:24:45] SaltySD: cmd 10 handler
+[02:24:45] SaltySD: done accepting service calls
+[02:24:45] SaltySD: accepting service calls
+[02:24:45] SaltySD: session 2c083f3 being handled
+[02:24:45] SaltySD: cmd 7 handler
+[02:24:45] SaltySD: done accepting service calls
+[02:28:27] SaltySD: PID 170 is not allowing debugging, aborting...
+[02:33:04] SaltySD: accepting service calls
+[02:33:04] SaltySD: session 2c683f3 being handled
+[02:33:04] SaltySD: cmd 10 handler
+[02:33:04] SaltySD: done accepting service calls
+[02:33:04] SaltySD: accepting service calls
+[02:33:04] SaltySD: session 2cb83f3 being handled
+[02:33:04] SaltySD: cmd 7 handler
+[02:33:04] SaltySD: done accepting service calls
+[02:50:56] SaltySD: PID 171 is not allowing debugging, aborting...
+[02:50:58] SaltySD: found valid AttachProcess event:
+[02:50:58] 		 tid 01002b30028f6000 pid 00000000000000ac
+[02:50:58] 		 name Application
+[02:50:59] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:50:59] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:50:59] 		 exception 0000000000000000
+[02:50:59] SaltySD: debug event 4, passing...
+[02:50:59] SaltySD: PID 172 svcGetDebugEventInfo: end of events...
+[00:53:36] .text to 6319a04000, .data to 631e3b8000
+[02:51:00] SaltySD: BID: 9382989AF9636A1E
+[02:51:00] SaltySD: accepting service calls
+[02:51:00] SaltySD: session 2dd83f3 being handled
+[02:51:00] SaltySD: cmd 1 handler, proc handle 2df03f1, heap 3b2f800000, path saltysd_core.elf
+[02:51:00] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:53:36] SaltySD: Found free address space at 6319800000, size 5a000
+[02:51:00] SaltySD: done accepting service calls
+[02:51:00] SaltySD: PID ad spawned before last hijack finished bootstrapping! Ignoring...
+[02:51:00] SaltySD: accepting service calls
+[02:51:00] SaltySD: session 2e683f3 being handled
+[02:51:00] SaltySD: cmd 4 handler
+[02:51:00] SaltySD: cmd 2 handler
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631e9ec2dc, 631982d490, 10)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631e9ec4ac, 631982d490, 10)
+[02:51:00] SaltySD: cmd 6 handler, size: 1
+[02:51:00] SaltySD: cmd 7 handler
+[02:51:00] SaltySD: cmd 6 handler, size: 174
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631cff6150, 41727fdbc8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631ef13608, 41727fdbc8, 18)
+[02:51:00] SaltySD: cmd 8 handler PID: 173
+[02:51:00] SaltySD: cmd 6 handler, size: 7
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631cff63d8, 41727fdcd8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631cff63a8, 41727fdcd8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631cff5460, 41727fdcd8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631ef18a20, 41727fdcd8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631ef165c0, 41727fdcd8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631ef121b0, 41727fdcd8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631ef11f88, 41727fdcd8, 18)
+[02:51:00] SaltySD: cmd 3 handler, memcpy(631ef11fa0, 41727fdcd8, 18)
+[02:51:00] SaltySD: done accepting service calls
+[02:51:20] SaltySD: accepting service calls
+[02:51:20] SaltySD: session 30403f3 being handled
+[02:51:20] SaltySD: cmd 7 handler
+[02:51:20] SaltySD: done accepting service calls
+[02:51:57] SaltySD: PID 174 is not allowing debugging, aborting...
+[02:51:58] SaltySD: PID 175 is not allowing debugging, aborting...
+[02:52:01] SaltySD: found valid AttachProcess event:
+[02:52:01] 		 tid 0100000000010000 pid 00000000000000b0
+[02:52:01] 		 name Application
+[02:52:01] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:52:01] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:52:01] 		 exception 0000000000000000
+[02:52:01] SaltySD: debug event 4, passing...
+[02:52:01] SaltySD: PID 176 svcGetDebugEventInfo: end of events...
+[00:54:38] .text to 7f32a04000, .data to 7f33b9e000
+[02:52:01] SaltySD: BID: B424BE150A8E7D78
+[02:52:02] SaltySD: accepting service calls
+[02:52:02] SaltySD: session 31683f3 being handled
+[02:52:02] SaltySD: cmd 1 handler, proc handle 31803f2, heap 2c9f600000, path saltysd_core.elf
+[02:52:02] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:54:38] SaltySD: Found free address space at 7f32800000, size 5a000
+[02:52:02] SaltySD: done accepting service calls
+[02:52:02] SaltySD: accepting service calls
+[02:52:02] SaltySD: session 31f83f3 being handled
+[02:52:02] SaltySD: cmd 4 handler
+[02:52:02] SaltySD: cmd 2 handler
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f349509ec, 7f3282d490, 10)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34950bbc, 7f3282d490, 10)
+[02:52:02] SaltySD: cmd 6 handler, size: 1
+[02:52:02] SaltySD: cmd 7 handler
+[02:52:02] SaltySD: cmd 6 handler, size: 174
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f33835c60, 14fd393bc8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f342961a0, 14fd393bc8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34b9d918, 14fd393bc8, 18)
+[02:52:02] SaltySD: cmd 8 handler PID: 176
+[02:52:02] SaltySD: cmd 6 handler, size: 7
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f33832e88, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f33832e10, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f33832df8, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f33832fc0, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34b919f0, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f33833770, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34291778, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34b8dfa0, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34b91a98, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34b91ab0, 14fd393cd8, 18)
+[02:52:02] SaltySD: cmd 3 handler, memcpy(7f34b91ac8, 14fd393cd8, 18)
+[02:52:02] SaltySD: done accepting service calls
+[02:52:02] SaltySD: PID 177 is not allowing debugging, aborting...
+[02:52:13] SaltySD: accepting service calls
+[02:52:13] SaltySD: session 38c83f3 being handled
+[02:52:13] SaltySD: cmd 7 handler
+[02:52:13] SaltySD: done accepting service calls
+[02:52:46] SaltySD: PID 178 is not allowing debugging, aborting...
+[02:52:51] SaltySD: PID 179 is not allowing debugging, aborting...
+[02:52:54] SaltySD: found valid AttachProcess event:
+[02:52:54] 		 tid 0100cd801ce5e000 pid 00000000000000b4
+[02:52:54] 		 name Application
+[02:52:54] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:52:54] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:52:54] 		 exception 0000000000000000
+[02:52:54] SaltySD: debug event 4, passing...
+[02:52:54] SaltySD: PID 180 svcGetDebugEventInfo: end of events...
+[00:55:31] .text to 7637405000, .data to 76378bf000
+[02:52:55] SaltySD: BID: 294D920907E88881
+[02:52:55] SaltySD: accepting service calls
+[02:52:55] SaltySD: session 39f03f3 being handled
+[02:52:55] SaltySD: cmd 1 handler, proc handle 3a083f1, heap 3826600000, path saltysd_core.elf
+[02:52:55] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:55:31] SaltySD: Found free address space at 7637200000, size 5a000
+[02:52:55] SaltySD: done accepting service calls
+[02:52:55] SaltySD: accepting service calls
+[02:52:55] SaltySD: session 3a703f3 being handled
+[02:52:55] SaltySD: cmd 4 handler
+[02:52:55] SaltySD: cmd 2 handler
+[02:52:55] SaltySD: cmd 3 handler, memcpy(764d353ad4, 763722d490, 10)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(764d353ca4, 763722d490, 10)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(763777db88, 1c7fa80d68, 18)
+[02:52:55] SaltySD: cmd 6 handler, size: 1
+[02:52:55] SaltySD: cmd 7 handler
+[02:52:55] SaltySD: cmd 6 handler, size: 174
+[02:52:55] SaltySD: cmd 3 handler, memcpy(763777c040, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(7649f19c10, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(763777c058, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(7649f0ad48, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(764c73cc70, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(763777bf68, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(7649f05990, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(7649f1d630, 1c7fa80bc8, 18)
+[02:52:55] SaltySD: cmd 3 handler, memcpy(764c73d018, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777bf08, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777e440, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764c73c088, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764c73c0a0, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764c73c250, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764c73bb30, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764c73be78, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d836670, 1c7fa80bc8, 18)
+[02:52:56] SaltySD: cmd 8 handler PID: 180
+[02:52:56] SaltySD: cmd 6 handler, size: 7
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777e410, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777d330, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777e308, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777e320, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777e3f8, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d83ac90, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d838d40, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d834ab0, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d834840, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d834858, 1c7fa80cd8, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(763777e4b8, 1c7fa80d68, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d834df8, 1c7fa80d68, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d834bb8, 1c7fa80d68, 18)
+[02:52:56] SaltySD: cmd 3 handler, memcpy(764d834bd0, 1c7fa80d68, 18)
+[02:52:56] SaltySD: done accepting service calls
+[02:53:00] SaltySD: accepting service calls
+[02:53:00] SaltySD: session 3e583f3 being handled
+[02:53:00] SaltySD: cmd 7 handler
+[02:53:00] SaltySD: done accepting service calls
+[02:53:13] SaltySD: PID 181 is not allowing debugging, aborting...
+[02:53:21] SaltySD: PID 182 is not allowing debugging, aborting...
+[02:53:24] SaltySD: found valid AttachProcess event:
+[02:53:24] 		 tid 01009f8017f48000 pid 00000000000000b7
+[02:53:24] 		 name ZingangGame
+[02:53:24] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:53:24] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:53:24] 		 exception 0000000000000000
+[02:53:24] SaltySD: debug event 4, passing...
+[02:53:24] SaltySD: PID 183 svcGetDebugEventInfo: end of events...
+[00:56:02] .text to 402c004000, .data to 4035318000
+[02:53:26] SaltySD: BID: 69EE5F71F187EAA9
+[02:53:26] SaltySD: accepting service calls
+[02:53:26] SaltySD: session 3f803f3 being handled
+[02:53:26] SaltySD: cmd 1 handler, proc handle 3f983f2, heap 302400000, path saltysd_core.elf
+[02:53:26] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:56:02] SaltySD: Found free address space at 402be00000, size 5a000
+[02:53:26] SaltySD: done accepting service calls
+[02:53:26] SaltySD: accepting service calls
+[02:53:26] SaltySD: session 40003f3 being handled
+[02:53:26] SaltySD: cmd 4 handler
+[02:53:26] SaltySD: cmd 2 handler
+[02:53:26] SaltySD: cmd 3 handler, memcpy(403908f1e8, 402be2d490, 10)
+[02:53:26] SaltySD: cmd 3 handler, memcpy(403908f3b8, 402be2d490, 10)
+[02:53:26] SaltySD: cmd 6 handler, size: 1
+[02:53:26] SaltySD: cmd 7 handler
+[02:53:26] SaltySD: cmd 6 handler, size: 174
+[02:53:26] SaltySD: cmd 3 handler, memcpy(40341d3168, 460d585bc8, 18)
+[02:53:26] SaltySD: cmd 3 handler, memcpy(40389fd0e8, 460d585bc8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(403932b2a0, 460d585bc8, 18)
+[02:53:27] SaltySD: cmd 8 handler PID: 183
+[02:53:27] SaltySD: cmd 6 handler, size: 7
+[02:53:27] SaltySD: cmd 3 handler, memcpy(40341d2a18, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(40341d2a00, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(40341d2970, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(40341d3828, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(403931d740, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(40341d15f0, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(4038a08368, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(403931c4b0, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(403931d7d0, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(40341d3540, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(403931d7e8, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(40341d35a0, 460d585cd8, 18)
+[02:53:27] SaltySD: cmd 3 handler, memcpy(403931d800, 460d585cd8, 18)
+[02:53:27] SaltySD: done accepting service calls
+[02:53:27] SaltySD: accepting service calls
+[02:53:27] SaltySD: session 42683f3 being handled
+[02:53:27] SaltySD: cmd 7 handler
+[02:53:27] SaltySD: done accepting service calls
+[02:53:34] SaltySD: accepting service calls
+[02:53:34] SaltySD: session 42c03f3 being handled
+[02:53:34] SaltySD: cmd 7 handler
+[02:53:34] SaltySD: done accepting service calls
+[02:53:39] SaltySD: PID 184 is not allowing debugging, aborting...
+[02:55:16] SaltySD: PID 185 is not allowing debugging, aborting...
+[02:55:18] SaltySD: found valid AttachProcess event:
+[02:55:18] 		 tid 010021c000b6a000 pid 00000000000000ba
+[02:55:18] 		 name Application
+[02:55:18] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:55:18] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:55:18] 		 exception 0000000000000000
+[02:55:18] SaltySD: debug event 4, passing...
+[02:55:18] SaltySD: PID 186 svcGetDebugEventInfo: end of events...
+[00:57:55] .text to 5406804000, .data to 540690b000
+[02:55:19] SaltySD: BID: B6E5BDB9DC12E1D1
+[02:55:19] SaltySD: accepting service calls
+[02:55:19] SaltySD: session 43e83f3 being handled
+[02:55:19] SaltySD: cmd 1 handler, proc handle 44003f1, heap 25e7800000, path saltysd_core.elf
+[02:55:19] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:57:55] SaltySD: Found free address space at 5406600000, size 5a000
+[02:55:19] SaltySD: done accepting service calls
+[02:55:19] SaltySD: accepting service calls
+[02:55:19] SaltySD: session 44683f3 being handled
+[02:55:19] SaltySD: cmd 4 handler
+[02:55:19] SaltySD: cmd 2 handler
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407d4e198, 540662d490, 10)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407d4e368, 540662d490, 10)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(540689a290, 3709765d68, 18)
+[02:55:19] SaltySD: cmd 6 handler, size: 1
+[02:55:19] SaltySD: cmd 7 handler
+[02:55:19] SaltySD: cmd 6 handler, size: 174
+[02:55:19] SaltySD: cmd 3 handler, memcpy(540689b388, 3709765bc8, 18)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407685100, 3709765bc8, 18)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407ffb640, 3709765bc8, 18)
+[02:55:19] SaltySD: cmd 8 handler PID: 186
+[02:55:19] SaltySD: cmd 6 handler, size: 7
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407fed060, 3709765cd8, 18)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(54076901d0, 3709765cd8, 18)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407febda0, 3709765cd8, 18)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407fed108, 3709765cd8, 18)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407fed120, 3709765cd8, 18)
+[02:55:19] SaltySD: cmd 3 handler, memcpy(5407fed138, 3709765cd8, 18)
+[02:55:19] SaltySD: done accepting service calls
+[02:55:20] SaltySD: accepting service calls
+[02:55:20] SaltySD: session 46403f3 being handled
+[02:55:20] SaltySD: cmd 7 handler
+[02:55:20] SaltySD: done accepting service calls
+[02:55:36] SaltySD: accepting service calls
+[02:55:36] SaltySD: session 46983f3 being handled
+[02:55:36] SaltySD: cmd 7 handler
+[02:55:36] SaltySD: done accepting service calls
+[02:55:41] SaltySD: PID 187 is not allowing debugging, aborting...
+[02:56:36] SaltySD: PID 188 is not allowing debugging, aborting...
+[02:56:38] SaltySD: found valid AttachProcess event:
+[02:56:38] 		 tid 0100c510166f0000 pid 00000000000000bd
+[02:56:38] 		 name Application
+[02:56:38] 		 isA64 1 addrSpace 3 enableDebug 1
+[02:56:38] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[02:56:38] 		 exception 0000000000000000
+[02:56:38] SaltySD: debug event 4, passing...
+[02:56:38] SaltySD: PID 189 svcGetDebugEventInfo: end of events...
+[00:59:15] .text to 7566a04000, .data to 756b0e2000
+[02:56:39] SaltySD: BID: F4DD98453C4F0755
+[02:56:39] SaltySD: accepting service calls
+[02:56:39] SaltySD: session 47c03f3 being handled
+[02:56:39] SaltySD: cmd 1 handler, proc handle 47d83f2, heap 2266e00000, path saltysd_core.elf
+[02:56:39] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[00:59:15] SaltySD: Found free address space at 7566800000, size 5a000
+[02:56:39] SaltySD: done accepting service calls
+[02:56:39] SaltySD: accepting service calls
+[02:56:39] SaltySD: session 48403f3 being handled
+[02:56:39] SaltySD: cmd 4 handler
+[02:56:39] SaltySD: cmd 2 handler
+[02:56:39] SaltySD: cmd 3 handler, memcpy(756c012988, 756682d490, 10)
+[02:56:39] SaltySD: cmd 3 handler, memcpy(756c012b58, 756682d490, 10)
+[02:56:39] SaltySD: cmd 3 handler, memcpy(756a34e228, 65e3dead68, 18)
+[02:56:39] SaltySD: cmd 6 handler, size: 1
+[02:56:39] SaltySD: cmd 7 handler
+[02:56:40] SaltySD: cmd 6 handler, size: 174
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34f6c8, 65e3deabc8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756bbbe370, 65e3deabc8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756c531a38, 65e3deabc8, 18)
+[02:56:40] SaltySD: cmd 8 handler PID: 189
+[02:56:40] SaltySD: cmd 6 handler, size: 7
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34e948, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34e4f8, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34e510, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34f620, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756c536dc0, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34ec78, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756bbc9488, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756c5348e8, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756c5304f0, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34eb28, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756c5302c8, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756a34eb40, 65e3deacd8, 18)
+[02:56:40] SaltySD: cmd 3 handler, memcpy(756c5302e0, 65e3deacd8, 18)
+[02:56:40] SaltySD: done accepting service calls
+[02:56:49] SaltySD: accepting service calls
+[02:56:49] SaltySD: session 4ac03f3 being handled
+[02:56:49] SaltySD: cmd 7 handler
+[02:56:49] SaltySD: done accepting service calls
+[02:56:53] SaltySD: PID 190 is not allowing debugging, aborting...
+[03:01:03] SaltySD: PID 191 is not allowing debugging, aborting...
+[03:01:05] SaltySD: found valid AttachProcess event:
+[03:01:05] 		 tid 010021c000b6a000 pid 00000000000000c0
+[03:01:05] 		 name Application
+[03:01:06] 		 isA64 1 addrSpace 3 enableDebug 1
+[03:01:06] 		 enableAslr 1 useSysMemBlocks 1 poolPartition 0
+[03:01:06] 		 exception 0000000000000000
+[03:01:06] SaltySD: debug event 4, passing...
+[03:01:06] SaltySD: PID 192 svcGetDebugEventInfo: end of events...
+[01:03:42] .text to 1c6a004000, .data to 1c6a10b000
+[03:01:06] SaltySD: BID: B6E5BDB9DC12E1D1
+[03:01:06] SaltySD: accepting service calls
+[03:01:06] SaltySD: session 4bf83f3 being handled
+[03:01:06] SaltySD: cmd 1 handler, proc handle 4c103f1, heap 3f18400000, path saltysd_core.elf
+[03:01:06] SaltySD: loading sdmc:/SaltySD/saltysd_core.elf, size 0x32268
+[01:03:42] SaltySD: Found free address space at 1c69e00000, size 5a000
+[03:01:06] SaltySD: done accepting service calls
+[03:01:06] SaltySD: accepting service calls
+[03:01:06] SaltySD: session 4c783f3 being handled
+[03:01:06] SaltySD: cmd 4 handler
+[03:01:06] SaltySD: cmd 2 handler
+[03:01:06] SaltySD: cmd 3 handler, memcpy(1c6b54e198, 1c69e2d490, 10)
+[03:01:06] SaltySD: cmd 3 handler, memcpy(1c6b54e368, 1c69e2d490, 10)
+[03:01:06] SaltySD: cmd 3 handler, memcpy(1c6a09a290, 3eb22ead68, 18)
+[03:01:06] SaltySD: cmd 6 handler, size: 1
+[03:01:06] SaltySD: cmd 7 handler
+[03:01:06] SaltySD: cmd 6 handler, size: 174
+[03:01:06] SaltySD: cmd 3 handler, memcpy(1c6a09b388, 3eb22eabc8, 18)
+[03:01:06] SaltySD: cmd 3 handler, memcpy(1c6ae85100, 3eb22eabc8, 18)
+[03:01:06] SaltySD: cmd 3 handler, memcpy(1c6b7fb640, 3eb22eabc8, 18)
+[03:01:06] SaltySD: cmd 8 handler PID: 192
+[03:01:06] SaltySD: cmd 6 handler, size: 7
+[03:01:07] SaltySD: cmd 3 handler, memcpy(1c6b7ed060, 3eb22eacd8, 18)
+[03:01:07] SaltySD: cmd 3 handler, memcpy(1c6ae901d0, 3eb22eacd8, 18)
+[03:01:07] SaltySD: cmd 3 handler, memcpy(1c6b7ebda0, 3eb22eacd8, 18)
+[03:01:07] SaltySD: cmd 3 handler, memcpy(1c6b7ed108, 3eb22eacd8, 18)
+[03:01:07] SaltySD: cmd 3 handler, memcpy(1c6b7ed120, 3eb22eacd8, 18)
+[03:01:07] SaltySD: cmd 3 handler, memcpy(1c6b7ed138, 3eb22eacd8, 18)
+[03:01:07] SaltySD: done accepting service calls
+[03:01:21] SaltySD: accepting service calls
+[03:01:21] SaltySD: session 4e503f3 being handled
+[03:01:21] SaltySD: cmd 7 handler
+[03:01:21] SaltySD: done accepting service calls
+[03:01:23] SaltySD: accepting service calls
+[03:01:23] SaltySD: session 4ea83f3 being handled
+[03:01:23] SaltySD: cmd 7 handler
+[03:01:23] SaltySD: done accepting service calls
+[03:01:28] SaltySD: accepting service calls
+[03:01:28] SaltySD: session 4f003f3 being handled
+[03:01:28] SaltySD: cmd 7 handler
+[03:01:28] SaltySD: done accepting service calls
+[03:07:05] SaltySD: accepting service calls
+[03:07:05] SaltySD: session 4f583f3 being handled
+[03:07:05] SaltySD: cmd 7 handler
+[03:07:05] SaltySD: done accepting service calls
+[03:07:59] SaltySD: PID 193 is not allowing debugging, aborting...
+[03:14:43] SaltySD: sysmodule TID 00ff0000b378d640 is a system application, aborting bootstrap...
+[03:15:02] SaltySD: PID 195 is not allowing debugging, aborting...
+[03:15:53] SaltySD: PID 196 is not allowing debugging, aborting...
+[03:16:07] SaltySD: PID 197 is not allowing debugging, aborting...
+[03:16:23] SaltySD: PID 198 is not allowing debugging, aborting...
+[03:16:46] SaltySD: PID 199 is not allowing debugging, aborting...
+[03:23:11] SaltySD: PID 200 is not allowing debugging, aborting...
+[03:23:19] SaltySD: PID 201 is not allowing debugging, aborting...
+[03:23:37] SaltySD: PID 202 is not allowing debugging, aborting...
+[03:23:51] SaltySD: PID 203 is not allowing debugging, aborting...
+[03:24:57] SaltySD: PID 204 is not allowing debugging, aborting...
+SaltySD 1.5.5: got SD card.
+[00:00:00] SaltySD: Detected Lite model. Docked refresh rate will be blocked.
+[00:00:09] SaltySD: PID 137 is not allowing debugging, aborting...
+[00:00:09] SaltySD: PID 138 is not allowing debugging, aborting...
+[00:00:09] SaltySD: PID 139 is not allowing debugging, aborting...
+[00:00:10] SaltySD: accepting service calls
+[00:00:10] SaltySD: session e83f3 being handled
+[00:00:10] SaltySD: cmd 7 handler
+[00:00:10] SaltySD: done accepting service calls
+SaltySD 1.5.5: got SD card.
+[00:00:00] SaltySD: Detected Lite model. Docked refresh rate will be blocked.
+[00:00:08] SaltySD: PID 137 is not allowing debugging, aborting...
+[00:00:08] SaltySD: PID 138 is not allowing debugging, aborting...
+[00:00:08] SaltySD: PID 139 is not allowing debugging, aborting...
+[00:00:09] SaltySD: accepting service calls
+[00:00:09] SaltySD: session e83f3 being handled
+[00:00:09] SaltySD: cmd 7 handler
+[00:00:09] SaltySD: done accepting service calls
+[00:00:14] SaltySD: PID 140 is not allowing debugging, aborting...
+[00:33:58] SaltySD: PID 141 is not allowing debugging, aborting...
+[00:35:33] SaltySD: PID 142 is not allowing debugging, aborting...
+[00:36:11] SaltySD: PID 143 is not allowing debugging, aborting...
