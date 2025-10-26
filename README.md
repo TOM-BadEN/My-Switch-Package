@@ -18,7 +18,7 @@
 
 | 目录/文件 | 说明 | 来源 |
 |----------|------|------|
-| `atmosphere/` | 大气层自制固件核心，包含系统模块(contents)、系统补丁(exefs_patches)、kip加载器、主机屏蔽文件等 | Atmosphere 官方发布 |
+| `atmosphere/` | 大气层核心文件夹，包含系统模块(contents)、系统补丁(exefs_patches)、kip加载器、主机屏蔽文件等 | [Atmosphere 官方](https://github.com/Atmosphere-NX/Atmosphere) |
 | `bootloader/` | Hekate 引导加载器及其配置文件(hekate_ipl.ini)、启动图标(res文件夹)、payload工具等 | Hekate 官方发布 |
 | `config/` | 各类系统模块和自制软件的配置文件，包含 Ultrahand、Tesla、sys-clk、状态监控等工具配置 | 各工具自动生成或手动配置 |
 | `SaltySD/` | SaltySD 游戏插件加载系统，包含插件文件、补丁和日志 | SaltySD 项目 |
