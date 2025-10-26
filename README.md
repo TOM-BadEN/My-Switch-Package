@@ -19,13 +19,13 @@
 | 目录/文件 | 说明 | 来源 |
 |----------|------|------|
 | `atmosphere/` | 大气层核心文件夹 | [Atmosphere 官方](https://github.com/Atmosphere-NX/Atmosphere) |
-| `bootloader/` | Hekate 引导加载器 | [Hekate 汉化](https://github.com/easyworld/hekate)，[Hekate 汉化](https://github.com/easyworld/hekate) |
-| `config/` | 各类系统模块和自制软件的配置文件，包含 Ultrahand、Tesla、sys-clk、状态监控等工具配置 | 各工具自动生成或手动配置 |
-| `SaltySD/` | SaltySD 游戏插件加载系统，包含插件文件、补丁和日志 | SaltySD 项目 |
-| `switch/` | 自制软件和工具存放目录，包含 Ultrahand 工具包(.packages)、Tesla 插件(.overlays)、各类应用程序 | 各自制软件作者 |
-| `themes/` | 系统主题文件存放目录，包含主题资源和补丁文件 | 主题作者制作 |
-| `warmboot_mariko/` | Mariko 芯片专用的 warmboot 固件，用于从睡眠唤醒 | Atmosphere 官方提供 |
-| `exosphere.bin` | Exosphere 安全监视器二进制文件 | Atmosphere 核心组件 |
-| `exosphere.ini` | Exosphere 配置文件，可配置 8GB 内存支持等高级选项 | Atmosphere 配置文件 |
-| `hbmenu.nro` | Homebrew 菜单启动器 | Atmosphere 官方提供 |
-| `payload.bin` | 用于重启加载的 payload 文件 | Hekate 或其他 payload |
+| `bootloader/` | Hekate 引导加载器 | [Hekate 汉化](https://github.com/easyworld/hekate) [Hekate 官方](https://github.com/CTCaer/hekate) |
+| `config/` | 各类自制软件的配置文件 | 自动生成或手动配置 |
+| `SaltySD/` | 底座插件的支持文件，包含一个系统模块 | [SaltyNX](https://github.com/masagrator/SaltyNX) |
+| `switch/` | 自制软件存放目录 | 大气层标准目录 |
+| `themes/` | 系统主题文件存放目录 | 手动创建 |
+| `warmboot_mariko/` | Mariko 芯片专用的 warmboot 固件，用于从睡眠唤醒 | 大气层自动生成 |
+| `exosphere.bin` | 8G 魔改文件，通过hekate引导进入 | [大气层 8G](https://github.com/TOM-BadEN/Atmosphere-mod) |
+| `exosphere.ini` | 大气层配置文件，可以用来屏蔽序列号 | 大气层自带 |
+| `hbmenu.nro` | Homebrew 菜单启动器，这里是sphaira | [sphaira（仓库停止更新）](https://github.com/ITotalJustice/sphaira)|
+| `payload.bin` | 用于重启加载的 payload 文件 | hekate的hekate.bin改名成payload.bin |
