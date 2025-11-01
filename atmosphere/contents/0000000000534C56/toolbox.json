@@ -1,6 +1,6 @@
 {
-    "name": "底座模式",
+    "name": "游戏注入",
     "tid": "0000000000534C56",
     "requires_reboot": true,
-    "version": "1.5.5"
+    "version": "1.5.7"
 }
